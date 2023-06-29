@@ -2,6 +2,8 @@
 It only a hero section,
 I used a HTML and CSS only,
 I have setup a color on css side ,
+
+
 :root {
   --logo-color: #f96565;
   --nav-color: grey;
